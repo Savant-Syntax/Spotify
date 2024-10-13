@@ -1,6 +1,6 @@
 # Project Progress Report
 
-**Date:** [Insert Date Here]
+**Date:** 13th Oct, 2024
 
 ## Project Title: Spotify-Web Player
 
